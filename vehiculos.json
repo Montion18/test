@@ -1,0 +1,10 @@
+{
+    "__class__": "Lista",
+    "__atributos__": {
+        "mod": "palio",
+        "cantp": 4,
+        "color": "rojo",
+        "precio": 250000.0,
+        "vers": 2010
+    }
+}
